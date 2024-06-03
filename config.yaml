@@ -1,0 +1,3 @@
+# Здесь у меня конфигурационный файл config.yaml
+
+wsdl_url: "https://speller.yandex.net/services/spellservice?WSDL"
