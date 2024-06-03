@@ -1,0 +1,6 @@
+pytest
+ddt
+zeep
+pyyaml
+
+# pip install -r requirements.txt установка зависимости
